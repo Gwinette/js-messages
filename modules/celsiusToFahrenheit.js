@@ -1,0 +1,5 @@
+export function celsiusToFahrenheit(){
+    const celsius=prompt("Введите температуру в градусах Цельсия:")
+    const farenheit=celsius*9/5+32
+    alert("Температура в градусах Фаренгейта: " + farenheit)
+}
