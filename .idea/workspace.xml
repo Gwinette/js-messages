@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e1a7e5-3a24-409a-9dd7-bbcbdcd1ee0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-messages.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/calculateAverage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/calculateFallDistance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/celsiusToFahrenheit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/concatStrings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/greet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="d1e1a7e5-3a24-409a-9dd7-bbcbdcd1ee0b" name="Changes" comment="alert messages // h/work for fourth study block (js-start module)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723285951325</updated>
-      <workItem from="1723285954333" duration="7098000" />
+      <workItem from="1723285954333" duration="7592000" />
     </task>
+    <task id="LOCAL-00001" summary="alert messages // h/work for fourth study block (js-start module)">
+      <created>1723293458361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723293458361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +85,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alert messages // h/work for fourth study block (js-start module)" />
+    <option name="LAST_COMMIT_MESSAGE" value="alert messages // h/work for fourth study block (js-start module)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

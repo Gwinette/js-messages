@@ -1,8 +1,8 @@
-import {greet} from "./modules/greet";
-import {celsiusToFahrenheit} from "./modules/celsiusToFahrenheit";
-import {calculateFallDistance} from "./modules/calculateFallDistance";
-import {calculateAverage} from "./modules/calculateAverage";
-import {concatStrings} from "./modules/concatStrings";
+import {greet} from "../modules/greet.js";
+import {celsiusToFahrenheit} from "../modules/celsiusToFahrenheit.js";
+import {calculateFallDistance} from "../modules/calculateFallDistance.js";
+import {calculateAverage} from "../modules/calculateAverage.js";
+import {concatStrings} from "../modules/concatStrings.js";
 
 greet()
 celsiusToFahrenheit()

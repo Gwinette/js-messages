@@ -5,6 +5,6 @@ export function calculateAverage(){
     a = Number(a)
     b = Number(b)
     c = Number(c)
-    const avg = (a + b + c)/2
-    alert("Средне значение: " + avg)
+    const avg = (a + b + c)/3;
+    alert("Среднее значение: " + avg)
 }
