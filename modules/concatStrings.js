@@ -1,5 +1,3 @@
-export function concatStrings(){
-    const word1 = prompt("Введите первое слово:")
-    const word2 = prompt("Введите второе слово:")
+export function concatStrings(word1, word2){
     alert("Первое слово - <<"+word1+">>, второе слово - <<"+word2+">>")
 }

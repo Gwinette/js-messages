@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e1a7e5-3a24-409a-9dd7-bbcbdcd1ee0b" name="Changes" comment="alert messages // h/work for fourth study block (js-start module)" />
+    <list default="true" id="d1e1a7e5-3a24-409a-9dd7-bbcbdcd1ee0b" name="Changes" comment="alert messages // correct formula for avg, correct import from script files (site extensions)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/calculateAverage.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/calculateAverage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/calculateFallDistance.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/calculateFallDistance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/celsiusToFahrenheit.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/celsiusToFahrenheit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/concatStrings.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/concatStrings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/greet.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/greet.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,19 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/js-messages/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -61,6 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1723285951325</updated>
       <workItem from="1723285954333" duration="7592000" />
+      <workItem from="1724443087749" duration="296000" />
+      <workItem from="1724491232218" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="alert messages // h/work for fourth study block (js-start module)">
       <created>1723293458361</created>
@@ -69,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723293458361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="alert messages // correct formula for avg, correct import from script files (site extensions)">
+      <created>1724443364449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724443364449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alert messages // h/work for fourth study block (js-start module)" />
-    <option name="LAST_COMMIT_MESSAGE" value="alert messages // h/work for fourth study block (js-start module)" />
+    <MESSAGE value="alert messages // correct formula for avg, correct import from script files (site extensions)" />
+    <option name="LAST_COMMIT_MESSAGE" value="alert messages // correct formula for avg, correct import from script files (site extensions)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
